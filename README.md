@@ -3,11 +3,6 @@
 
 Successfully deployed an E-Commerce Project on Azure Kubernetes Service (AKS) leveraging a three-tier architecture. 
 
-Three-Tier Architecture:
-1. Presentation Tier: It encompasses the user interface and communication layer, serving as the entry point for user interaction. 🖥️
-2. Application Tier: At the core of the architecture, it processes data and executes business logic. ⚙️
-3. Data Tier: Here, application data is stored and managed, ensuring persistence and accessibility. 🗃️
-
 Microservice Architecture:
 The E-Commerce Project consists of eight microservices:
 1. User (Registration) - MongoDB 🧑‍💻
